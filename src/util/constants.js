@@ -1,3 +1,3 @@
 export const AppConstants = {
-    BACEND_URL: 'http://localhost:8080/api/v1.0',
+    BACEND_URL: 'https://loginsignup-server-production.up.railway.app/api/v1.0',
 }
